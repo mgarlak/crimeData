@@ -1,6 +1,5 @@
 ## Michael Garlak
 ## 02-25-2017
-## Testing Python 
 
 import os
 
